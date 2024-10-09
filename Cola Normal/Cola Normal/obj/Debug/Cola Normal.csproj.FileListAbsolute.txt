@@ -1,0 +1,7 @@
+C:\Users\AMD Ryzen\Desktop\Cola Normal\Cola Normal\bin\Debug\Cola Normal.exe.config
+C:\Users\AMD Ryzen\Desktop\Cola Normal\Cola Normal\bin\Debug\Cola Normal.exe
+C:\Users\AMD Ryzen\Desktop\Cola Normal\Cola Normal\bin\Debug\Cola Normal.pdb
+C:\Users\AMD Ryzen\Desktop\Cola Normal\Cola Normal\obj\Debug\Cola Normal.csproj.AssemblyReference.cache
+C:\Users\AMD Ryzen\Desktop\Cola Normal\Cola Normal\obj\Debug\Cola Normal.csproj.CoreCompileInputs.cache
+C:\Users\AMD Ryzen\Desktop\Cola Normal\Cola Normal\obj\Debug\Cola Normal.exe
+C:\Users\AMD Ryzen\Desktop\Cola Normal\Cola Normal\obj\Debug\Cola Normal.pdb
